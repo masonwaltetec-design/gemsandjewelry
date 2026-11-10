@@ -2,7 +2,7 @@
   "name": "Gems & Jewelry",
   "short_name": "Gems & Jewelry",
   "description": "Handmade wire-wrapped jewelry with natural stones.",
-  "id": "./",
+  "id": "/gemsandjewelry/",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
